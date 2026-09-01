@@ -1,0 +1,14 @@
+{
+  "name": "13th-july-playwright-batch",
+  "version": "1.0.0",
+  "main": "firstTypeScriptprogram.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.1.2"
+  }
+}
