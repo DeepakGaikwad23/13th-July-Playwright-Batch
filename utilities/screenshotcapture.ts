@@ -1,1 +1,1 @@
-write code to capture scrrenshot
+write code to capture screenshots
