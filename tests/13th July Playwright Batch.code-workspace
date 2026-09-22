@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../StackDemo_POM_Framework"
+		}
+	],
+	"settings": {
+		"chat.disableAIFeatures": false
+	}
+}
